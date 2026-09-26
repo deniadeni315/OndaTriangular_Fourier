@@ -1,0 +1,1 @@
+# OndaTriangular_Fourier
